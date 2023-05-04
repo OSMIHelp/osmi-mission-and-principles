@@ -8,8 +8,7 @@ Open Sourcing Mental Health is a non-profit, 501(c)(3) corporation dedicated to 
 ## Principles
 
 - We practive **Empathy**
-- We believe in the power of **Vulnerability** to chage lives
-- **Self-empowerment through Collaboration**
-- **Transparency**
-- **Open Source, Open Data, Open Documents**
-- **Non-Violent Communication**
+- We believe in the power of **Vulnerability** to change lives
+- We practice and facilitate **Self-empowerment through Collaboration**
+- We believe in **Free and Open Source, Data & Information** for health and well-being. 
+- We use **Non-Violent Communication** as a model for compassionate, effective communication
